@@ -1,8 +1,5 @@
-package codes;
-
-public class KG {
+public class Tr {
     public static void main(String[] args) {
         String name;
-        int age;
     }
 }
