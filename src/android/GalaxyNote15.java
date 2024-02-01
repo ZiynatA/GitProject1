@@ -6,4 +6,7 @@ public class GalaxyNote15 {
         int memory;
         String model;
     }
+    public static void sayHello(){
+        System.out.println("Hello");
+    }
 }
