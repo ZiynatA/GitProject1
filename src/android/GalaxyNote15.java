@@ -7,6 +7,6 @@ public class GalaxyNote15 {
         String model;
     }
     public static void sayHello(){
-        System.out.println("Hello!");
+        System.out.println("Hello");
     }
 }
